@@ -1,0 +1,28 @@
+{
+  "name": "sk-nodejs",
+  "version": "0.0.1",
+  "description": "cli init skeleton project for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enta1234/sk-nodejs.git"
+  },
+  "keywords": [
+    "express",
+    "REST",
+    "skeleton",
+    "starter"
+  ],
+  "author": "Chantatha Polsamak ucode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enta1234/sk-nodejs/issues"
+  },
+  "homepage": "https://github.com/enta1234/sk-nodejs#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
