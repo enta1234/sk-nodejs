@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "sknode": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/enta1234/sk-nodejs.git"
@@ -23,6 +26,8 @@
   },
   "homepage": "https://github.com/enta1234/sk-nodejs#readme",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "rimraf": "^2.6.3",
+    "simple-git": "^1.120.0"
   }
 }
