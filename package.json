@@ -1,5 +1,5 @@
 {
-  "name": "sk-nodejs",
+  "name": "sknode",
   "version": "0.0.1",
   "description": "cli init skeleton project for node.js",
   "main": "index.js",
