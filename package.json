@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/enta1234/sk-nodejs#readme",
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "rimraf": "^2.6.3",
     "simple-git": "^1.120.0"
   }
