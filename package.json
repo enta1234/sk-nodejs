@@ -28,6 +28,6 @@
   "dependencies": {
     "minimist": "^1.2.2",
     "rimraf": "^2.6.3",
-    "simple-git": "^1.120.0"
+    "simple-git": "^3.3.0"
   }
 }
